@@ -1,5 +1,5 @@
 import React, { useState, useMemo } from 'react';
-import { BarChart, Bar, LineChart, Line, PieChart, Pie, Cell, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts';
+import { BarChart, Bar, LineChart, Line, PieChart, Pie, Cell, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts';
 import { Calendar, Users, TrendingUp, Zap, RefreshCw, Info, ArrowRightLeft } from 'lucide-react';
 
 const initialRooms = [
